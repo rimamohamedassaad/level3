@@ -1,0 +1,145 @@
+body{
+   
+    background-color:burlywood;
+    display: flex;
+}
+.container{
+    width: 85%;
+     padding: 10px;
+    margin: auto;
+    justify-content: center;
+    width: 800px;
+    background-color:cornsilk;
+
+}
+
+header{
+    background-image: url("women.png");
+
+    height: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 800px;
+   
+    
+}
+h1 {
+    padding-left: 80px;
+padding-top: 30px;
+font-size: 50px;
+}
+h4{
+  
+    padding-left: 100px;
+    font-size: 30px;
+
+}
+ul{
+    list-style: none;
+    padding: 0px;
+}
+.nav1{
+display: inline-block;
+width: 100px;
+text-align: center;
+height: 50px ;
+ 
+}
+nav{
+    background-color: blanchedalmond ;
+    display: flex;
+    height: 50px;
+   justify-content: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.ulflex{
+    display: flex;
+}
+.nav2{
+   border-left: 1px solid black;
+
+}
+a{
+    text-align: center;
+    display: flex;
+    text-decoration: none;
+  padding-left: 10px; 
+  
+  
+  justify-content: center;
+}
+.container2{
+    display: flex;
+    padding-top: 20px;
+    border-bottom: black 1px solid;
+    padding-bottom: 20px;
+}
+.first{
+    width: 25%;
+    margin-right: 20px;
+    padding-right: 20px;
+}
+.second{
+    width: 70%;
+display: flex;
+       
+    }
+    section{
+        width: 50%;
+        display: inline-block;
+    }
+.second2{
+    display: flex;
+}
+.pbord{
+    border-top: black solid 1px;
+    padding-top: 20px;
+    
+}
+.rightbord{
+     border-right: 1px solid black;
+    margin-right: 10px;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    background-color:lightsalmon;
+}
+.contactus{
+    display: flex;
+padding-bottom: 10px;
+
+}
+.table {
+    width: 50%;
+
+}
+.h22{
+    width:50%;
+font-size: 50px;    
+display: flex;
+justify-content: center;
+}
+.sub{
+    width:
+        100%;
+        background-color: peru;
+    
+}
+.about{
+    text-decoration: underline;
+}
+button{
+    background-color: coral;
+    color: white;
+}
+.image2{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+h5{
+   text-decoration: underline;
+}
